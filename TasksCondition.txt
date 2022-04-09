@@ -1,0 +1,78 @@
+Person classiniz var
+
+Fieldleri ashagidaklirdi:
+
+1:) Name
+2:) Surname
+3:) Age
+4:)isMarried
+
+
+3-cure constructor movcuddur:
+
+1:)Parametrsiz
+2:)Yalniz Name ve Surname set olunsu
+3:)Age ve isMarried set olunsun ve instance alanda Name ve Surname teleb elesin
+
+
+
+Bu class-dan instance alirsiz ve deyerleri oturursuz.
+
+
+ShowInfo methodunuz var hansi ki bu classin melumatlarini chixardir
+
+
+Bu classdan inheritance alan Student classi var
+Fieldler:
+1:)Degree
+2:)isHigh
+
+Constructor da yalniz bu iki fieldi set etmekle butun melumatlarin istemesi teleb olunur.
+
+ShowInfo methodunu override etmekle bu studentin melumatlarini chixardin
+
+
+
+
+a)Car Classi yarat.Brand,Model,Color,MaxSpeed-fieldlari yaratmali.
+
+b)Info adli Method yazmali.Return all Information.
+
+c)Bosh Constructor yaratmali "Car Created" - yazdirmali.
+
+d)2 parametr  qebul eden Constructor yazmali.Brand,Model- burada Set olmali.
+
+e)4 paramatrli constructor  yazmali,Brand Model,Color,MaxSpeed - fieldlari set etmeli.
+2 parametr qebul eden  contructoru chagirsin.
+
+f)Bus classi yaradirsiniz.Miras alir Car classindan.PassengerCount 
+fieldi-i olur Bus classinin.
+
+g)Bus class-da Info  override elesin,PassengerCount-da elave olsun info methodunun 
+neticesine elave olsun.
+
+h)Bus Classinda cunstructorunda Car Classini constructorunu cagirmali, 
+Car-dan instance alib obyekt yaratsin.
+Bus-dan instance alib obyekt yaradin.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
