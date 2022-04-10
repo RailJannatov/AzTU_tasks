@@ -1,0 +1,16 @@
+C:\Users\Rail\Desktop\AzTU_tasks\ConsoleApp04-10\ConsoleApp04-10\obj\Debug\net5.0\ConsoleApp04-10.csproj.AssemblyReference.cache
+C:\Users\Rail\Desktop\AzTU_tasks\ConsoleApp04-10\ConsoleApp04-10\obj\Debug\net5.0\ConsoleApp04-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rail\Desktop\AzTU_tasks\ConsoleApp04-10\ConsoleApp04-10\obj\Debug\net5.0\ConsoleApp04-10.AssemblyInfoInputs.cache
+C:\Users\Rail\Desktop\AzTU_tasks\ConsoleApp04-10\ConsoleApp04-10\obj\Debug\net5.0\ConsoleApp04-10.AssemblyInfo.cs
+C:\Users\Rail\Desktop\AzTU_tasks\ConsoleApp04-10\ConsoleApp04-10\obj\Debug\net5.0\ConsoleApp04-10.csproj.CoreCompileInputs.cache
+C:\Users\Rail\Desktop\AzTU_tasks\ConsoleApp04-10\ConsoleApp04-10\bin\Debug\net5.0\ConsoleApp04-10.exe
+C:\Users\Rail\Desktop\AzTU_tasks\ConsoleApp04-10\ConsoleApp04-10\bin\Debug\net5.0\ConsoleApp04-10.deps.json
+C:\Users\Rail\Desktop\AzTU_tasks\ConsoleApp04-10\ConsoleApp04-10\bin\Debug\net5.0\ConsoleApp04-10.runtimeconfig.json
+C:\Users\Rail\Desktop\AzTU_tasks\ConsoleApp04-10\ConsoleApp04-10\bin\Debug\net5.0\ConsoleApp04-10.runtimeconfig.dev.json
+C:\Users\Rail\Desktop\AzTU_tasks\ConsoleApp04-10\ConsoleApp04-10\bin\Debug\net5.0\ConsoleApp04-10.dll
+C:\Users\Rail\Desktop\AzTU_tasks\ConsoleApp04-10\ConsoleApp04-10\bin\Debug\net5.0\ref\ConsoleApp04-10.dll
+C:\Users\Rail\Desktop\AzTU_tasks\ConsoleApp04-10\ConsoleApp04-10\bin\Debug\net5.0\ConsoleApp04-10.pdb
+C:\Users\Rail\Desktop\AzTU_tasks\ConsoleApp04-10\ConsoleApp04-10\obj\Debug\net5.0\ConsoleApp04-10.dll
+C:\Users\Rail\Desktop\AzTU_tasks\ConsoleApp04-10\ConsoleApp04-10\obj\Debug\net5.0\ref\ConsoleApp04-10.dll
+C:\Users\Rail\Desktop\AzTU_tasks\ConsoleApp04-10\ConsoleApp04-10\obj\Debug\net5.0\ConsoleApp04-10.pdb
+C:\Users\Rail\Desktop\AzTU_tasks\ConsoleApp04-10\ConsoleApp04-10\obj\Debug\net5.0\ConsoleApp04-10.genruntimeconfig.cache
