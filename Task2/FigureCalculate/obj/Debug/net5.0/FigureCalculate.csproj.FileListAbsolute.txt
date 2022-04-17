@@ -1,0 +1,16 @@
+C:\Users\Rail\Desktop\Task2\FigureCalculate\bin\Debug\net5.0\FigureCalculate.exe
+C:\Users\Rail\Desktop\Task2\FigureCalculate\bin\Debug\net5.0\FigureCalculate.deps.json
+C:\Users\Rail\Desktop\Task2\FigureCalculate\bin\Debug\net5.0\FigureCalculate.runtimeconfig.json
+C:\Users\Rail\Desktop\Task2\FigureCalculate\bin\Debug\net5.0\FigureCalculate.runtimeconfig.dev.json
+C:\Users\Rail\Desktop\Task2\FigureCalculate\bin\Debug\net5.0\FigureCalculate.dll
+C:\Users\Rail\Desktop\Task2\FigureCalculate\bin\Debug\net5.0\ref\FigureCalculate.dll
+C:\Users\Rail\Desktop\Task2\FigureCalculate\bin\Debug\net5.0\FigureCalculate.pdb
+C:\Users\Rail\Desktop\Task2\FigureCalculate\obj\Debug\net5.0\FigureCalculate.csproj.AssemblyReference.cache
+C:\Users\Rail\Desktop\Task2\FigureCalculate\obj\Debug\net5.0\FigureCalculate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rail\Desktop\Task2\FigureCalculate\obj\Debug\net5.0\FigureCalculate.AssemblyInfoInputs.cache
+C:\Users\Rail\Desktop\Task2\FigureCalculate\obj\Debug\net5.0\FigureCalculate.AssemblyInfo.cs
+C:\Users\Rail\Desktop\Task2\FigureCalculate\obj\Debug\net5.0\FigureCalculate.csproj.CoreCompileInputs.cache
+C:\Users\Rail\Desktop\Task2\FigureCalculate\obj\Debug\net5.0\FigureCalculate.dll
+C:\Users\Rail\Desktop\Task2\FigureCalculate\obj\Debug\net5.0\ref\FigureCalculate.dll
+C:\Users\Rail\Desktop\Task2\FigureCalculate\obj\Debug\net5.0\FigureCalculate.pdb
+C:\Users\Rail\Desktop\Task2\FigureCalculate\obj\Debug\net5.0\FigureCalculate.genruntimeconfig.cache
