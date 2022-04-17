@@ -1,0 +1,167 @@
+    
+ User classi:
+Username
+Password
+
+
+ Admin class:
+IsSuperAdmin (boolean type)
+Section (adminin web saytda idare etdiyi hisse)
+
+
+User classi base class, admin classi ise derived class olur. 
+Username ve password sensitive datalardir (encapsulation olunmalidir). Ipucu: access modifier
+
+
+Bir admin yaradildigi zaman username, password, issuperadmin ve section memberleri avtomatik teyin olunmalidir 
+(en optimal variantda yazirsiz),
+her hansi bir member datasi teyin olunmamis admin obyekti yaradila bilmez.
+
+
+Username set olundugu zaman uzunlugu 6-dan boyuk olmalidir.
+Password set olundugu zaman icerisinde minimum 1 eded olmalidir ve minimum 1 herfi boyuk olmalidir.
+
+
+Console Application run olundugu zaman admin username ve passwordunu daxil edir.
+Eger daxil olunan deyer Username memberinin sertlerini odemirse  
+istifadeciden yeniden username-ni daxil etmesi teleb olunmalidir.
+Eyni qaydada daxil olunan deyer Password memberinin sertlerini odemirse istifadeciden yeniden password-u daxil etmesi teleb olunmalidir.
+Eger her sey duzgundurse console-da IsSuperAdmin ve Section deyerleri qeyd olunur ve admin datasi yaranir.
+En sonda adminin butun datalarini geriye qaytaran bir method-u cagiraraq ekranda Adminin datalarini yazdirirsiz ve application bitir
+
+
+
+Vehicle Class(abstrakt).
+- Color
+- Year
+- ShowInfo() - asbtrakt method
+
+Year olmadan Vehicle obyekti yaratmaq olmaz
+Car Class (Vehicle-da miras alır)
+- Brand
+- Model
+- MaxSpeed
+
+Brand və Model olmadan Car obyekti yaratmaq olmaz.
+ShowInfo() methodunu özünə uyğun override etsin.
+
+Bus class (Vehicle-dan miras alır	)
+- PassengerCount
+
+ShowInfo() methodunu özünə uyğun override etsin.
+
+PassengerCount olmadan Bus obyekti yaratmaq olmaz
+
+Program class-ında bir Vehicle tipindən bir array yaradılsın və içi Car və Bus obyektlərilə 
+doldurulsun
+
+Daha sonra foreach-ə salıb hər bir Vehicle item-ı üçün ShowInfo() methodu çağırılsın.
+
+
+abstract Figure classi movcuddur.
+
+Calculate methodumuz var
+
+
+
+1:)Square classimiz var ve bu CalculateArea methodunu ozune uyghun override edir.
+
+
+2:)Rectangle classimiz var ve bu class da CalculateArea methodunu ozune uyghun ovveride edir
+
+3:)Trapeze classimiz var ve bu class da CalculateArea methodunu ozune uyghun ovveride edir
+
+4:) Circle (Daire) classimiz var ve bu class da CalculateArea methodunu ozune uyghun override edir.
+
+
+
+
+
+
+Room class
+- Id - qıraqdan set etmək olmayacaq yalnız get etmək olacaq və hər dəfə yeni bir Room obyekt yaradıldıqda avtomatik bir vahid artacaq.
+- Name
+- Price
+- PersonCapacity - otağın neçə nəfərlik olduğunu bildirir.
+- IsAvailable - otağın rezervasiya olunub olunmadığını göstərir (true/false), default olaraq true olmalıdır.
+- ShowInfo() - Otağın bütün məlumatlarını göstərir
+
+ToString methodunu override edirsiz və geriyə ShowInfo methodunu qaytarırsız.
+
+ps: Name, Price, PersonCapacity olmadan Room obyekti yaratmaq olmaz
+
+Hotel class
+- Name
+- Rooms array - içində Room obyektləri saxlayır və private-dır.
+- AddRoom() - Parametr olaraq Room obyekti qəbul edib rooms arrayinə əlavə edir.
+- MakeReservation() - Parametr olaraq nullable int tipindən bir roomId qəbul edir əgər
+ roomId null olaraq geriyə "otaq boshdur:qaytarır əks halda 
+göndərilən roomId-li otaq tapılır və IsAvailable dəyəri yoxlanılır əgər
+ IsAvailable dəyəri  false-dusa geriyə yuxarıda yaratdığınız "sehfdir"
+qaytarılır 
+əgər true-dursa həmin room-un IsAvailable dəyəri false olur.
+
+ps: Name dəyəri olmadan bir Hotel obyekti yaratmaq olmaz.
+
+Program class
+
+1. İki ədəd room obyekti yaradırsız daha sonra bir hotel obyekti
+ yaradırsız hotel obyektinin içindəki AddRoom methodu vasitəsilə yaratdığınız iki room 
+obyektini hoteldəki rooms arrayinə əlavə edirsiz.
+
+2. MakeReservation methodunu Ishledin errorlari yoxlayin.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
