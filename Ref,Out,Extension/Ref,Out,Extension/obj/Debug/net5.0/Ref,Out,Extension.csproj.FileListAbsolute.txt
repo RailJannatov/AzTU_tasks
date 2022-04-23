@@ -1,0 +1,16 @@
+C:\Users\Rail\Desktop\Ref,Out,Extension\Ref,Out,Extension\bin\Debug\net5.0\Ref,Out,Extension.exe
+C:\Users\Rail\Desktop\Ref,Out,Extension\Ref,Out,Extension\bin\Debug\net5.0\Ref,Out,Extension.deps.json
+C:\Users\Rail\Desktop\Ref,Out,Extension\Ref,Out,Extension\bin\Debug\net5.0\Ref,Out,Extension.runtimeconfig.json
+C:\Users\Rail\Desktop\Ref,Out,Extension\Ref,Out,Extension\bin\Debug\net5.0\Ref,Out,Extension.runtimeconfig.dev.json
+C:\Users\Rail\Desktop\Ref,Out,Extension\Ref,Out,Extension\bin\Debug\net5.0\Ref,Out,Extension.dll
+C:\Users\Rail\Desktop\Ref,Out,Extension\Ref,Out,Extension\bin\Debug\net5.0\ref\Ref,Out,Extension.dll
+C:\Users\Rail\Desktop\Ref,Out,Extension\Ref,Out,Extension\bin\Debug\net5.0\Ref,Out,Extension.pdb
+C:\Users\Rail\Desktop\Ref,Out,Extension\Ref,Out,Extension\obj\Debug\net5.0\Ref,Out,Extension.csproj.AssemblyReference.cache
+C:\Users\Rail\Desktop\Ref,Out,Extension\Ref,Out,Extension\obj\Debug\net5.0\Ref,Out,Extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rail\Desktop\Ref,Out,Extension\Ref,Out,Extension\obj\Debug\net5.0\Ref,Out,Extension.AssemblyInfoInputs.cache
+C:\Users\Rail\Desktop\Ref,Out,Extension\Ref,Out,Extension\obj\Debug\net5.0\Ref,Out,Extension.AssemblyInfo.cs
+C:\Users\Rail\Desktop\Ref,Out,Extension\Ref,Out,Extension\obj\Debug\net5.0\Ref,Out,Extension.csproj.CoreCompileInputs.cache
+C:\Users\Rail\Desktop\Ref,Out,Extension\Ref,Out,Extension\obj\Debug\net5.0\Ref,Out,Extension.dll
+C:\Users\Rail\Desktop\Ref,Out,Extension\Ref,Out,Extension\obj\Debug\net5.0\ref\Ref,Out,Extension.dll
+C:\Users\Rail\Desktop\Ref,Out,Extension\Ref,Out,Extension\obj\Debug\net5.0\Ref,Out,Extension.pdb
+C:\Users\Rail\Desktop\Ref,Out,Extension\Ref,Out,Extension\obj\Debug\net5.0\Ref,Out,Extension.genruntimeconfig.cache
