@@ -1,0 +1,27 @@
+Aşağıdakı metodlardan ibarət static ExtensionMethods class-i yaradin.
+
+CustomContains() - string obyektlər üçün bir extension method olacaq
+və iki overloadı olacaq birincisi bir string tipinnən parametr qəbul edəcək
+
+
+digəri char tipindən bir parametr qəbul edəcək və göndərilən string/char-ın
+string obyekti olub olmadığını yoxlayıb geriyə true/false qaytaracaq.
+
+
+IsPrime() - int obyektlər üçün olan bir extension method olacaq 
+və həmin obyektin sadə ədəd olub olmadığını yoxlayıb geriyə true/false qaytaracaq.
+
+
+Currency enum
+
+- Usd - Dollar - 0.59
+- Eur - Yevro - 0.53
+- TRY - Türk lirası - 8.73
+- Rub - Rubl - 52.21
+
+Converter class:
+- Exchange() - bu method parametr olaraq bir Enum tipindən obyekt qəbul edəcək birdə double tipindən azn, 
+method daxilində ilk olaraq yoxlamaq lazımdır ki gələn Enum obyekti Currency enumıdır mı daha sonra hansı 
+valyuta göndərilibsə göndərilən azn-i həmin valyutaya uyğun konvertasiya edib geriyə qaytaracaq.
+Məsələn:
+method-a parametr olaraq azn dəyəri 2 göndərildisə və valyuta usd göndərildisə geriyə 2 * 0.59 = 1.18 qaytarılmalıdır.
