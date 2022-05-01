@@ -1,0 +1,54 @@
+Aşağıdakı memberlərdən ibarət Book class:
+~ Name
+~ AuthorName
+~ PageCount
+~ Code - hər kitabın adınıın ilk hərfi və kitabın yaranma sırasından ibarətdir, ex: "programming" adlı
+kitab 10cu yaranmış kitabdırsa Code: PR10 olmalıdır.
+
+Libary class:
+
+~ Books - book listi
+
+
+AddBookToLibrary()-Book type-dan book qebul edecek.
+
+~ FindAllBooksByName() - parametr olaraq string value qəbul edir və adında həmin string value olan kitablardan ibarət list qaytarır
+
+~ RemoveAllBooksByNme() - parametr olar string value qəbul edir və adında həmin string value olan kitabları silir
+
+~ SearchBooks() - parametr olar string value qəbul edir və 
+Name,AuthorName, PageCount dəyərlərindən hər hansı birində göndərilmiş string valuesı olan book-lardan ibarət list qaytarır.
+
+~ FindAllBooksByPageCountRange() - parametr olaraq iki int dəyər qəbul edir(minimum səhifə və maximum səhifə sayı kimi)
+ və pagecount
+dəyəri həmin aralıqda olan book-lardan ibarət list qaytarır
+
+~ RemoveBookByCode() - parametr olaraq string value qəbul edir və 	code-u həmin string value olan book-u qaytarır
+
+
+Student class
+
+Id,
+Name,
+Grade
+
+Group class
+
+
+Student type-dan list 
+Name
+
+
+AddMethodu;
+
+Id e gore Studenti tapmaq id -nullable olsun
+
+ID e gore ve onu silmek -RemoveStudent();
+
+85-den yuxari Grade olan Studentleri chixartmaq -----> StudentGetGrade();
+Eger yoxdusa Ekrana bele bir telebe yoxdur chixartsin
+
+Butun studentlerin melumatinin  chixmasi 
+
+
+
