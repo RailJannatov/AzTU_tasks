@@ -1,0 +1,16 @@
+C:\Users\Rail\Desktop\AzTU_tasks\GenericType,List\GenericType,List\obj\Debug\net5.0\GenericType,List.csproj.AssemblyReference.cache
+C:\Users\Rail\Desktop\AzTU_tasks\GenericType,List\GenericType,List\obj\Debug\net5.0\GenericType,List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rail\Desktop\AzTU_tasks\GenericType,List\GenericType,List\obj\Debug\net5.0\GenericType,List.AssemblyInfoInputs.cache
+C:\Users\Rail\Desktop\AzTU_tasks\GenericType,List\GenericType,List\obj\Debug\net5.0\GenericType,List.AssemblyInfo.cs
+C:\Users\Rail\Desktop\AzTU_tasks\GenericType,List\GenericType,List\obj\Debug\net5.0\GenericType,List.csproj.CoreCompileInputs.cache
+C:\Users\Rail\Desktop\AzTU_tasks\GenericType,List\GenericType,List\bin\Debug\net5.0\GenericType,List.exe
+C:\Users\Rail\Desktop\AzTU_tasks\GenericType,List\GenericType,List\bin\Debug\net5.0\GenericType,List.deps.json
+C:\Users\Rail\Desktop\AzTU_tasks\GenericType,List\GenericType,List\bin\Debug\net5.0\GenericType,List.runtimeconfig.json
+C:\Users\Rail\Desktop\AzTU_tasks\GenericType,List\GenericType,List\bin\Debug\net5.0\GenericType,List.runtimeconfig.dev.json
+C:\Users\Rail\Desktop\AzTU_tasks\GenericType,List\GenericType,List\bin\Debug\net5.0\GenericType,List.dll
+C:\Users\Rail\Desktop\AzTU_tasks\GenericType,List\GenericType,List\bin\Debug\net5.0\ref\GenericType,List.dll
+C:\Users\Rail\Desktop\AzTU_tasks\GenericType,List\GenericType,List\bin\Debug\net5.0\GenericType,List.pdb
+C:\Users\Rail\Desktop\AzTU_tasks\GenericType,List\GenericType,List\obj\Debug\net5.0\GenericType,List.dll
+C:\Users\Rail\Desktop\AzTU_tasks\GenericType,List\GenericType,List\obj\Debug\net5.0\ref\GenericType,List.dll
+C:\Users\Rail\Desktop\AzTU_tasks\GenericType,List\GenericType,List\obj\Debug\net5.0\GenericType,List.pdb
+C:\Users\Rail\Desktop\AzTU_tasks\GenericType,List\GenericType,List\obj\Debug\net5.0\GenericType,List.genruntimeconfig.cache
